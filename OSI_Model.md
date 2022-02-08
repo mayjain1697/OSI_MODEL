@@ -35,27 +35,8 @@ The lower layer of the OSI model deals with data transport issues. The data link
 ### **4. ARCHITECTURE OF OSI MODEL**
 There are seven OSI layers. Each layer has different functions. A list of seven layers is given below.
 
-<br>
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-
-</style>
 
 ![OSI Modal Architecture](https://insights.profitap.com/hs-fs/hubfs/The%207%20Layers%20of%20OSI.png?width=560&name=The%207%20Layers%20of%20OSI.png "OSI Modal Architecture") 
-         
-
-</head>
-</html>
 
 
 ### **4.1. Physical Layer**
