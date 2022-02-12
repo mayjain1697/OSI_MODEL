@@ -17,17 +17,17 @@ The International Standard Organization (ISO) is a multinational body dedicated 
 
  <br>
  
-### **2. DEFINATION**
+### **2. DEFINITION**
 The open systems interconnection (OSI) model is a conceptual model created by the International Organization for Standardization which enables diverse communication systems to communicate using standard protocols. In plain English, the OSI provides a standard for different computer systems to be able to communicate with each other.
 <br>
 <br>
 
 ### **3. CHARACTERISTICS OF OSI MODEL**
 The OSI model is divided into two layers: Upper layers and Lower layers.
-* **Upper Layer :**
+* **Upper Layer:**
 The upper layer of the OSI model mainly deals with application-related issues, and they are implemented only in the software. The application layer is closest to the end-user. Both the end-user and the application layer interact with the software applications.
 
-* **Lower Layer :** 
+* **Lower Layer:** 
 The lower layer of the OSI model deals with data transport issues. The data link layer and the physical layer are implemented in hardware and software. The physical layer is the lowest layer of the OSI model and is closest to the physical medium.
 
 <br>
@@ -88,7 +88,7 @@ The functions of the Network layer are :
 ### 4.4. **Transport Layer**
 The transport layer provides services to the application layer and takes services from the network layer. The data in the transport layer is referred to as Segments. It is responsible for the End to End Delivery of the complete message. 
 
-* **At sender's side:**
+* **A sender's side:**
 The transport layer receives the formatted data from the upper layers, performs segmentation, and also implements flow and error-free control to ensure proper data transmission. It also adds Source and Destination port numbers in its header and forwards the segmented data to the Network Layer. 
 
 * **At receiver's side:** 
